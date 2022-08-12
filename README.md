@@ -1,3 +1,3 @@
 # Games
 creating games for fun
-and imporiving my coding skills along the way.
+and improving my coding skills along the way.
